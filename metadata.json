@@ -1,0 +1,6 @@
+{
+  "name": "UniSchedule",
+  "description": "Smart college schedule organizer with bilingual voice & text entry (Arabic/English), AI timetable designs, and home screen widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
